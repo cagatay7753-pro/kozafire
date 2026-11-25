@@ -2,6 +2,8 @@
 
 # 🔥 KozaFire — 8K Video & Music Downloader
 
+**[🇬🇧 English](README.md)** | **[🇹🇷 Türkçe](README.tr.md)**
+
 **Drop the link, let KozaFire handle the rest.**  
 An ad-free, fast, and clean 8K UHD video & lossless audio downloader for Windows.
 
